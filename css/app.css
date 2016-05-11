@@ -1,0 +1,20 @@
+.bbt {
+  background-color: #17B8A1;
+border-color: #17B8A1;
+
+}
+.bbt:hover {
+  color: #fff;
+background-color: #1E9197;
+border-color: #1E9197;
+}
+.navbar-default .nav li a:hover{
+  color: #1E9197;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  background-color: #1E9197;
+}
+.col-blue a {
+  color: #1E9197;
+}
