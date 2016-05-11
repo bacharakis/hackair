@@ -18,3 +18,11 @@ border-color: #1E9197;
 .col-blue a {
   color: #1E9197;
 }
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  height: 100%;
+}
